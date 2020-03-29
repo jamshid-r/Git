@@ -10,7 +10,10 @@ some more poem
 some more poem 2
 
 roberst frost is not finished yet
+<<<<<<< HEAD
 
 adding 5th paragraph
 
 adding 6th paragraph
+=======
+>>>>>>> 9c1bb272f71dad6a06bd3f024a5703be13328dba
